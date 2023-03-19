@@ -42,6 +42,7 @@ The above visualization is a bar graph that displays the average salaries offere
 
 **6. Average salary offered by different sectors for different job roles**<br>
 
+<img width="576" alt="tree map" src="https://user-images.githubusercontent.com/122247029/226217281-a781a192-137b-44c3-8d7b-4a307982874f.PNG">
 
-
-
+[Application Used: TreeMap, Filter, Marks sheet]<br>
+The above visualization is a TreeMap that illustrates the distribution of job titles across various industries. The size of the boxes represents the number of job openings, and the color indicates the relative number of jobs in each sector. The darker shade represents a higher number of job openings, and the lighter shade represents a lower number of job openings. The analysis of the TreeMap indicates a significant increase in data science jobs each year. Based on the data, industries such as Biotech & Pharmaceutical, Insurance, Health care, and Aerospace & Defense have a high demand for data scientists. In contrast, the retail sector has the least demand for data scientist positions. The analysis also reveals that many companies have career opportunities based on data science. Overall, the TreeMap provides an easy-to-understand visualization of job opportunities in various industries, and it can help job seekers to identify industries with high job openings for their job titles.
