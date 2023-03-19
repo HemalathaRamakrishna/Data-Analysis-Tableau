@@ -35,5 +35,13 @@ The box and whisker plot presented above provides a visual representation of the
 
 **5. Maximum and minimum salary offered for the different sectors for data scientist**<br>
 
+<img width="585" alt="maximum and minumin" src="https://user-images.githubusercontent.com/122247029/226217178-975ea45c-6444-40d0-a5ed-7ef3f30b3c4c.PNG">
+
+[Application Used: Bar Chart, Parameter, Sort, Filter, Marks Card]<br>
+The above visualization is a bar graph that displays the average salaries offered for different job roles in various sectors. The X-axis shows the sectors, and the different job titles are broken down within each sector. The Y-axis shows the average salary offered for each job role. The graph also includes a filter parameter that allows us to dynamically modify the number of top deals displayed. The sectors are sorted alphabetically, and the top 12 highest salaries are displayed. It is evident from the graph that data engineers, data scientists, and data analysts are grouped together as they have similar job profiles. The Finance Aerospace & Defense sector offers the highest salary for these job roles. On the other hand, the Information Technology sector has a good job opportunity for machine learning engineers. This analysis provides insights into how different industries offer varying salaries for different job roles. It can help job seekers understand which sectors to target based on their desired job role and salary expectations. Similarly, companies can also use this graph to benchmark their salaries against industry standards and ensure they are offering competitive salaries to attract top talent.<br>
+
+**6. Average salary offered by different sectors for different job roles**<br>
+
+
 
 
