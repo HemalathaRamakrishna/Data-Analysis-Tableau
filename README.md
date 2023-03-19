@@ -21,3 +21,6 @@ This analysis provides insights into the salary ranges offered by different comp
 
 **3. Job opportunities in different states in the USA**<br>
 
+<img width="588" alt="Geographical Map for job oppourtutinities" src="https://user-images.githubusercontent.com/122247029/226216768-9415884b-457e-4934-8eb6-2976f3aef957.PNG">
+
+
