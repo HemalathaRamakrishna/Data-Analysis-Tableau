@@ -22,5 +22,11 @@ This analysis provides insights into the salary ranges offered by different comp
 **3. Job opportunities in different states in the USA**<br>
 
 <img width="588" alt="Geographical Map for job oppourtutinities" src="https://user-images.githubusercontent.com/122247029/226216768-9415884b-457e-4934-8eb6-2976f3aef957.PNG">
+<img width="585" alt="Filtered geographical map" src="https://user-images.githubusercontent.com/122247029/226216847-1f17bc18-9197-424d-955e-1028ecb99c85.PNG">
+
+[Application: Geographic Map, Filter, Marks Card]<br> 
+The above graph displays a geographical map of various job roles in different states of the USA, based on their longitude and latitude. The color indicates the job titles, and the data is filtered on the sum of base salary. This chart helps us analyze job opportunities in different locations. It shows that Data Engineering is the most common job role offered in the USA, followed by Data Scientist and Data Analyst. However, Machine Learning job opportunities are relatively scarce and only available in a few states. The graph also highlights that most of the job opportunities are concentrated in the eastern part of the USA. With the help of filters, we can analyze specific job roles and see which jobs are offered in which states. This information can assist job seekers in choosing the best location to apply for jobs based on their preferences and skillset.<br>
+
+**Relation between Education, Years of Experience, and Base salary**<br>
 
 
