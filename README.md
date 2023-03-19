@@ -48,3 +48,22 @@ The above visualization is a bar graph that displays the average salaries offere
 The above visualization is a TreeMap that illustrates the distribution of job titles across various industries. The size of the boxes represents the number of job openings, and the color indicates the relative number of jobs in each sector. The darker shade represents a higher number of job openings, and the lighter shade represents a lower number of job openings. The analysis of the TreeMap indicates a significant increase in data science jobs each year. Based on the data, industries such as Biotech & Pharmaceutical, Insurance, Health care, and Aerospace & Defense have a high demand for data scientists. In contrast, the retail sector has the least demand for data scientist positions. The analysis also reveals that many companies have career opportunities based on data science. Overall, the TreeMap provides an easy-to-understand visualization of job opportunities in various industries, and it can help job seekers to identify industries with high job openings for their job titles.
 
 ## Dashboard
+
+<img width="543" alt="dashboard 1" src="https://user-images.githubusercontent.com/122247029/226217443-d14bfa8c-8926-4c35-8e88-336feaee480d.PNG">
+<img width="549" alt="2222" src="https://user-images.githubusercontent.com/122247029/226217473-98110d96-085b-4fed-8980-99ae6ec13e22.PNG">
+
+The aim of our project was to analyze the job opportunities and salaries offered in the field of data science across the United States. To achieve this, we utilized a dataset that provided information on various job roles, companies, industries, and locations, along with their associated base salaries.Our analysis was presented in the form of a dashboard, which included four linked graphs based on the base salary. These graphs provided valuable insights into the job market, highlighting different aspects of job opportunities and salaries for data science roles.<br>
+
+The first graph was a geographic map that showcased job opportunities in different states across the US. The map was color-coded, with each color representing a specific job role. We could analyze the spread of job roles across different states, providing a broad overview of job opportunities available in each state.<br>
+
+The second graph displayed the top ten highest-paid companies for data scientist job roles. This graph provided insights into the top-paying companies, their base salaries, and job titles. By analyzing this graph, we could understand the companies that pay the highest wages for data science roles.<br>
+
+The third graph was a TreeMap that showed the number of jobs in different industries for data science roles. The TreeMap was structured based on the job title size and different sectors, providing insights into the number of jobs available in each industry.<br>
+
+##Storytelling
+
+
+The fourth graph showcased the maximum and minimum salaries offered for different job roles based on location. This graph presented a dual-axis chart, with the X-axis representing the location and the Y-axis displaying the maximum and minimum salaries. By analyzing this graph, we could determine the location that offers the highest salaries for data science roles.
+
+Our analysis revealed that San Francisco was the top contributor, offering the highest salaries for data science roles. This information is valuable for job seekers looking for data science roles, highlighting the importance of location in considering job opportunities. Overall, our dashboard provided valuable insights into the job market for data science roles in the United States.
+
