@@ -27,6 +27,13 @@ This analysis provides insights into the salary ranges offered by different comp
 [Application: Geographic Map, Filter, Marks Card]<br> 
 The above graph displays a geographical map of various job roles in different states of the USA, based on their longitude and latitude. The color indicates the job titles, and the data is filtered on the sum of base salary. This chart helps us analyze job opportunities in different locations. It shows that Data Engineering is the most common job role offered in the USA, followed by Data Scientist and Data Analyst. However, Machine Learning job opportunities are relatively scarce and only available in a few states. The graph also highlights that most of the job opportunities are concentrated in the eastern part of the USA. With the help of filters, we can analyze specific job roles and see which jobs are offered in which states. This information can assist job seekers in choosing the best location to apply for jobs based on their preferences and skillset.<br>
 
-**Relation between Education, Years of Experience, and Base salary**<br>
+**4. Relation between Education, Years of Experience, and Base salary**<br>
+
+<img width="585" alt="box plot" src="https://user-images.githubusercontent.com/122247029/226216973-3c2f3efe-73b7-4d44-a263-60704101be29.PNG">
+
+The box and whisker plot presented above provides a visual representation of the relationship between education, years of experience, and base salary. It displays the distribution of data points for different education levels based on wage and years of experience. The X-axis represents education levels, while the y-axis represents the sum of the base salary. Additionally, the color of the plot shows the count of years of experience, and details are provided for the company name. The analysis of the graph reveals that most companies require master's and Ph.D. degrees, which increases the likelihood of better job opportunities and higher salaries for individuals with these degrees. Conversely, high school and some college graduates have minimal chances of obtaining a job with a high salary. This visualization can provide useful insights for making informed decisions related to career choices and educational paths.<br>
+
+**5. Maximum and minimum salary offered for the different sectors for data scientist**<br>
+
 
 
