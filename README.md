@@ -31,6 +31,7 @@ The above graph displays a geographical map of various job roles in different st
 
 <img width="585" alt="box plot" src="https://user-images.githubusercontent.com/122247029/226216973-3c2f3efe-73b7-4d44-a263-60704101be29.PNG">
 
+[Application Used: Box and Whisker Plot, Filter, Marks Card]<br>
 The box and whisker plot presented above provides a visual representation of the relationship between education, years of experience, and base salary. It displays the distribution of data points for different education levels based on wage and years of experience. The X-axis represents education levels, while the y-axis represents the sum of the base salary. Additionally, the color of the plot shows the count of years of experience, and details are provided for the company name. The analysis of the graph reveals that most companies require master's and Ph.D. degrees, which increases the likelihood of better job opportunities and higher salaries for individuals with these degrees. Conversely, high school and some college graduates have minimal chances of obtaining a job with a high salary. This visualization can provide useful insights for making informed decisions related to career choices and educational paths.<br>
 
 **5. Maximum and minimum salary offered for the different sectors for data scientist**<br>
