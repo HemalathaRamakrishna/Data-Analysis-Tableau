@@ -65,7 +65,7 @@ The fourth graph showcased the maximum and minimum salaries offered for differen
 
 Our analysis revealed that San Francisco was the top contributor, offering the highest salaries for data science roles. This information is valuable for job seekers looking for data science roles, highlighting the importance of location in considering job opportunities. Overall, our dashboard provided valuable insights into the job market for data science roles in the United States.<br>
 
-##Storytelling
+## Storytelling
 
 <img width="547" alt="storytelling" src="https://user-images.githubusercontent.com/122247029/226217901-a62bfaae-5517-4bd6-ae50-54b38e1e753c.PNG">
 
