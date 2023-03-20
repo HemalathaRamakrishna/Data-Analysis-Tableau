@@ -60,10 +60,27 @@ The second graph displayed the top ten highest-paid companies for data scientist
 
 The third graph was a TreeMap that showed the number of jobs in different industries for data science roles. The TreeMap was structured based on the job title size and different sectors, providing insights into the number of jobs available in each industry.<br>
 
+The fourth graph showcased the maximum and minimum salaries offered for different job roles based on location. This graph presented a dual-axis chart, with the X-axis representing the location and the Y-axis displaying the maximum and minimum salaries. By analyzing this graph, we could determine the location that offers the highest salaries for data science roles.<br>
+
+Our analysis revealed that San Francisco was the top contributor, offering the highest salaries for data science roles. This information is valuable for job seekers looking for data science roles, highlighting the importance of location in considering job opportunities. Overall, our dashboard provided valuable insights into the job market for data science roles in the United States.<br>
+
 ##Storytelling
 
+<img width="547" alt="storytelling" src="https://user-images.githubusercontent.com/122247029/226217901-a62bfaae-5517-4bd6-ae50-54b38e1e753c.PNG">
 
-The fourth graph showcased the maximum and minimum salaries offered for different job roles based on location. This graph presented a dual-axis chart, with the X-axis representing the location and the Y-axis displaying the maximum and minimum salaries. By analyzing this graph, we could determine the location that offers the highest salaries for data science roles.
+We analyzed data science job postings and created various visualizations to help us understand job opportunities for different roles based on different factors. These factors include education, years of experience, sector, and salary. We used these visualizations to tell a story titled "Job opportunities for different roles based on other factors."<br>
 
-Our analysis revealed that San Francisco was the top contributor, offering the highest salaries for data science roles. This information is valuable for job seekers looking for data science roles, highlighting the importance of location in considering job opportunities. Overall, our dashboard provided valuable insights into the job market for data science roles in the United States.
+First, we analyzed job opportunities for different job roles in the USA. We used a chart to identify the job opportunities available in different parts of the USA and differentiate and analyze different jobs offered in other states. This helped us gain an overall view of job opportunities.<br>
+
+Next, we looked at the highest paid companies in the data science field. We ranked other countries based on the pay offered for data scientist job roles and showed the top ten companies that offer the highest salary. We found that Google, Amazon, Facebook, eBay, Apple, Microsoft, Southwest Research Institute, IZEA, Concerto Health, and Phoenix Operation Group are ranked in the top ten. This information allows a candidate to convey their satisfaction level based on their required wage.<br>
+
+We also analyzed job opportunities based on education. This visualization helped us understand the qualifications required for different job roles based on other companies. We found that many companies prefer a candidate with a master’s degree or Ph.D. A person with a master’s degree or a Ph.D. will have the highest chance of being qualified.<br>
+
+Additionally, we analyzed job opportunities based on years of experience. This helped us understand the salaries offered in various companies based on their year of experience. We found that Facebook provides the highest compensation for a person with 21 years of experience, while Envision LLC provides the lowest pay for one year of experience.<br>
+
+We also looked at job opportunities based on sector. We used a bar graph to show the average salary offered for data science job profiles in different sectors. We found that Finance Aerospace & defense offers the highest salary for data engineer, data scientist, and data analyst. Machine learning engineer has a good job opportunity in the information technology sector.<br>
+
+Finally, we analyzed job opportunities based on location. This dual-axis graph helped us analyze the maximum and minimum salaries offered by different locations in different sectors. We found that the San Francisco location has the highest salary offered, and it is the top contributor compared to other locations.<br>
+
+Overall, these visualizations helped us understand job opportunities for different roles based on different factors. This information can help candidates make better decisions when applying for jobs.
 
